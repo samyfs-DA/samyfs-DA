@@ -11,7 +11,7 @@
 
 # About me
 
-My passion for data is fueled by my engineering background. I translate my clients' requirements into insights and visualize them to inspire action.
+My engineering background fuels my passion for data . I translate my clients' requirements into insights and visualize them to inspire action.
 
 I have experience working with datasets, extracting, cleaning, and shaping them. In this space, I want to share part of my journey into the fascinating world of data analytics and explain why I am passionate about it.
 
@@ -35,15 +35,6 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 <a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:samyfs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
-<!--
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.flaticon.es/iconos-gratis/osx" title="osx iconos">Osx iconos creados por Pixel perfect - Flaticon</a>
