@@ -175,4 +175,18 @@ SELECT
     ```
   <img width="1159" height="250" alt="image" src="https://github.com/user-attachments/assets/eb21036f-ce90-49a0-aa9b-ff3c7abca72c" />
 
-  - 
+  - It is important to realize a QA. This is true for every analysis.
+    ```
+    SELECT 
+    COUNT (*) AS productos_precio_no_valido
+    FROM 
+    productos
+    WHERE costo_producto <= 0;
+    ```
+  <img width="348" height="93" alt="image" src="https://github.com/user-attachments/assets/eb5e5571-31bd-4130-a782-bacc66e081a4" />
+  *This demonstrates that everything is fine, so you can proceed.*
+
+  - The analysis is concluded with the export of results to Excel or Google Sheets for stakeholders' review. The format is comprehensive.
+
+<img width="1872" height="680" alt="image" src="https://github.com/user-attachments/assets/89420c2a-f89a-4b52-b546-329d0ff5dd3e" />
+
