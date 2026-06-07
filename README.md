@@ -61,9 +61,8 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 
 <img width="1187" height="734" alt="image" src="https://github.com/user-attachments/assets/cf4f3a5a-6c09-4a06-87d9-d74dfc55e1ae" />
 
-<img width="1187" height="734" alt="image" src="https://github.com/user-attachments/assets/451b5eae-bf7a-4b69-badb-998253105fdc" />
+<img width="1174" height="726" alt="image" src="https://github.com/user-attachments/assets/f92d4880-eb2c-4b5f-808b-185f319328c9" />
 
-<img width="1305" height="1323" alt="image" src="https://github.com/user-attachments/assets/e3810add-d64c-4eb2-8902-6521053bb7de" />
-
+<img width="1305" height="1323" alt="image" src="https://github.com/user-attachments/assets/e00288a0-8839-4377-b184-ebc5867c7930" />
 
 [Proyecto 1_ VentaExpress.xlsx](https://github.com/user-attachments/files/28676840/Proyecto.1_.VentaExpress.xlsx)
