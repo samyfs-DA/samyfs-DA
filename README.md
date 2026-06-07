@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I´m Samira Fanjul
 
 <!--
 **samyfs-DA/samyfs-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img width="589" height="391" alt="img_0607" src="https://github.com/user-attachments/assets/e04d824d-f892-488d-8283-a33e28a4f9b4" />Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
