@@ -1,8 +1,13 @@
 ## Hi there 👋 I´m Samira Fanjul
 
 <!--
-**samyfs-DA/samyfs-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img width="589" height="391" alt="img_0607" src="https://github.com/user-attachments/assets/e04d824d-f892-488d-8283-a33e28a4f9b4" />Here are some ideas to get you started:
+**samyfs-DA/samyfs-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+<img width="1683" height="653" alt="ChatGPT Image 28 abr 2026, 12_50_09 p m" src="https://github.com/user-attachments/assets/eac6b18a-c4ca-407a-93b8-25c0cb3b0373" />
+<a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +17,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
