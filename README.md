@@ -37,9 +37,9 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 <a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:samyfs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
-## Projects
+# Projects
 
-### Sales Data Analysis in "VentaExpress".
+## Sales Data Analysis in "VentaExpress".
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets--v1.png" alt="google-sheets--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/><br>
 "VentaExpress" is a growing e-commerce company. The first step in any data analysis is to clean and organize the data so that stakeholders can make informed decisions, such as identifying which city had the best sales and determining the best month in the last quarter of 2024.
 
@@ -67,7 +67,7 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 
 [Proyecto 1_ VentaExpress.xlsx](https://github.com/user-attachments/files/28676840/Proyecto.1_.VentaExpress.xlsx)
 
-### Financial Performance Analysis
+## Financial Performance Analysis
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/></br>
 AdventureWorks is a financial enterprise. This project involved analyzing revenue, campaigns, ROI, and ROMI.
 
