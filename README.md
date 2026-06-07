@@ -41,15 +41,12 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 
 ## Sales Data Analysis in "VentaExpress".
 
-
-[<img width="580" height="320" alt="Venta Express" src="https://github.com/user-attachments/assets/f68d9127-5d92-446e-a9ee-acdfa04291b2" />
-](https://github.com/samyfs-DA/ventaexpress.git)
+[<img width="580" height="320" alt="Venta Express" src="https://github.com/user-attachments/assets/f68d9127-5d92-446e-a9ee-acdfa04291b2" />](https://github.com/samyfs-DA/ventaexpress.git)
 
 ## Financial Performance Analysis
 
-[<img width="580" height="320" alt="Miniatura AdventureWorks" src="https://github.com/user-attachments/assets/e2f322f5-56de-4b7e-b993-44fdea4996f7" />
-](https://github.com/samyfs-DA/adventureworks.git)
+[<img width="580" height="320" alt="Miniatura AdventureWorks" src="https://github.com/user-attachments/assets/e2f322f5-56de-4b7e-b993-44fdea4996f7" />](https://github.com/samyfs-DA/adventureworks.git)
 
 ## Urban Mobility Analysis and Economic Productivity
-<img width="48" height="48" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="42" height="42" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="42" height="42" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="42" height="42" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img width="42" height="42" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/seaborn-icon.svg"/>
 
+[<img width="580" height="320" alt="Miniatura tomtom" src="https://github.com/user-attachments/assets/f1d40cb5-ecd2-4c5a-abed-017251db3db9" />](https://github.com/samyfs-DA/tomtom.git)
