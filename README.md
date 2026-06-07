@@ -40,7 +40,7 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 # Projects
 
 ## Sales Data Analysis in "VentaExpress".
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets--v1.png" alt="google-sheets--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/><br>
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets--v1.png" alt="google-sheets--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/><br>
 "VentaExpress" is a growing e-commerce company. The first step in any data analysis is to clean and organize the data so that stakeholders can make informed decisions, such as identifying which city had the best sales and determining the best month in the last quarter of 2024.
 
 **Key Questions**
@@ -65,7 +65,7 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 
 <img width="1305" height="1323" alt="image" src="https://github.com/user-attachments/assets/e00288a0-8839-4377-b184-ebc5867c7930" />
 
-[Proyecto 1_ VentaExpress.xlsx](https://github.com/user-attachments/files/28676840/Proyecto.1_.VentaExpress.xlsx)
+[Proyecto 1_ VentaExpress.xlsx](https://github.com/user-attachments/files/28676840/Proyecto.1_.VentaExpress.xlsx)](https://github.com/samyfs-DA/ventaexpress.git)
 
 ## Financial Performance Analysis
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/></br>
