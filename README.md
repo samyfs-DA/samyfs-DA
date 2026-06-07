@@ -125,5 +125,54 @@ LIMIT 10;
  ```
    <img width="1070" height="397" alt="image" src="https://github.com/user-attachments/assets/174e22ae-bdf5-4964-a792-bd3790b15af5" />
 
+  - Added two new columns to keep track of incoming and outgoing funds.
+```
+SELECT
+    v.numero_pedido AS numero_pedido,
+    v.clave_producto AS clave_producto,
+    p.nombre_producto AS producto,
+    pc.clave_categoria AS categoria,
+    COALESCE(p.precio_producto, 0)  AS precio_producto,
+    COALESCE(v.cantidad_pedido, 0)  AS cantidad_pedido,
+    COALESCE(p.costo_producto, 0)   AS costo_producto,
+    t.pais AS pais,
+    t.continente AS continente,
+    v.clave_territorio AS territorio,
+    COALESCE(p.precio_producto, 0) * COALESCE(v.cantidad_pedido, 0) AS ingreso_total,
+    COALESCE(p.costo_producto, 0) * COALESCE(v.cantidad_pedido, 0) AS costo_total
+    FROM 
+      ventas_2017 AS v
+    JOIN productos AS p
+      ON v.clave_producto = p.clave_producto
+    LEFT JOIN productos_categorias AS pc
+      ON p.clave_subcategoria = pc.clave_subcategoria
+    LEFT JOIN territorios AS t
+      ON v.clave_territorio = t.clave_territorio;
+```
+  <img width="1242" height="364" alt="image" src="https://github.com/user-attachments/assets/fcd1519a-b69e-4b12-a480-f47ae07790f6" />
 
-  - .
+  - Calculate revenue and cost per country.
+    ```
+    SELECT
+    p.pais,
+    p.clave_territorio,
+    SUM(p.ingresos)::integer AS ingresos,
+    SUM(p.costos)::integer AS costos,
+    COALESCE(SUM(c.costo_campana), 0)::integer AS costo_campana,
+    SUM(p.ingresos)::integer - SUM(p.costos)::integer AS beneficio_bruto,
+        ((SUM(p.ingresos) - SUM(p.costos)) * 100.0)
+        / NULLIF(SUM(p.ingresos), 0) AS margen_pct,
+    ((SUM(p.ingresos) - SUM(p.costos)) * 100.0)
+    / NULLIF(SUM(c.costo_campana), 0) AS roi_pct
+    FROM pais_ingreso_costo AS p
+    LEFT JOIN pais_campanas AS c
+      ON p.clave_territorio = c.clave_territorio
+    GROUP BY
+      p.pais,
+      p.clave_territorio
+    ORDER BY
+      p.clave_territorio, ingresos, costos;
+    ```
+  <img width="1159" height="250" alt="image" src="https://github.com/user-attachments/assets/eb21036f-ce90-49a0-aa9b-ff3c7abca72c" />
+
+  - 
