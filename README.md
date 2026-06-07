@@ -17,12 +17,23 @@ I have experience working with datasets, extracting, cleaning, and shaping them.
 
 ## Technical skills
 
-have experience working **Excel, Google Sheets, SQL, and Python ** for data analysis and management.
-Iwork with Power BI and Tableau to visualize and tell stories with data.
+I have experience working **Excel, Google Sheets, SQL,** and **Python** for data analysis and management.
+Iwork with **Power BI** and **Tableau** to visualize and tell stories with data.
+
+## Soft skills
+Data Analytics, Working under proccess, 
+- Data analytics
+- Working under process
+- Result-oriented
+- Client-oriented
+- Problem solving
+- Teamwork
+- Client attention 
+
+
 
 Please feel free to contact me. I'm sharing my LinkedIn profile and email address. 
 
-<br>
 <a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:samyfs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
