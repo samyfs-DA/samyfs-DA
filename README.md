@@ -30,8 +30,6 @@ Data Analytics, Working under proccess,
 - Teamwork
 - Client attention 
 
-
-
 Please feel free to contact me. I'm sharing my LinkedIn profile and email address. 
 
 <a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
