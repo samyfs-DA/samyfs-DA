@@ -5,8 +5,10 @@
 
 <img width="1683" height="653" alt="ChatGPT Image 28 abr 2026, 12_50_09 p m" src="https://github.com/user-attachments/assets/eac6b18a-c4ca-407a-93b8-25c0cb3b0373" />
 <a href="https://linkedin.com/in/samira-fanjul" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:samyfs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
 
-
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
