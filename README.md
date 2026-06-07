@@ -42,7 +42,7 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 ## Sales Data Analysis in "VentaExpress".
 
 
-[<img width="1280" height="720" alt="Venta Express" src="https://github.com/user-attachments/assets/f68d9127-5d92-446e-a9ee-acdfa04291b2" />
+[<img width="580" height="320" alt="Venta Express" src="https://github.com/user-attachments/assets/f68d9127-5d92-446e-a9ee-acdfa04291b2" />
 ](https://github.com/samyfs-DA/ventaexpress.git)
 
 ## Financial Performance Analysis
