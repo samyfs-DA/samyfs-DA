@@ -183,10 +183,17 @@ SELECT
     productos
     WHERE costo_producto <= 0;
     ```
+  
   <img width="348" height="93" alt="image" src="https://github.com/user-attachments/assets/eb5e5571-31bd-4130-a782-bacc66e081a4" />
+  
   *This demonstrates that everything is fine, so you can proceed.*
 
   - The analysis is concluded with the export of results to Excel or Google Sheets for stakeholders' review. The format is comprehensive.
 
 <img width="1872" height="680" alt="image" src="https://github.com/user-attachments/assets/89420c2a-f89a-4b52-b546-329d0ff5dd3e" />
+
+[Proyecto 2_ Análisis financiero  SQL - Resumen ejecutivo.xlsx](https://github.com/user-attachments/files/28677833/Proyecto.2_.Analisis.financiero.SQL.-.Resumen.ejecutivo.xlsx)
+
+## Urban Mobility Analysis and Economic Productivity
+<img width="48" height="48" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="42" height="42" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="42" height="42" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="42" height="42" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img width="42" height="42" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/seaborn-icon.svg"/>
 
