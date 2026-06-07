@@ -1,5 +1,8 @@
 ## Hi there 👋 I´m Samira Fanjul
 
+Aspiring Data Analyst | 17+ Years in Technology Consulting & Business Solutions
+
+Transforming data into actionable insights through SQL, Python, Excel, and Power BI.
 <!--
 **samyfs-DA/samyfs-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -17,16 +20,15 @@ I have experience working with datasets, extracting, cleaning, and shaping them.
 
 ## Technical skills
 
-I have experience working **Excel, Google Sheets, SQL,** and **Python** for data analysis and management.
-Iwork with **Power BI** and **Tableau** to visualize and tell stories with data.
+I have experience working with  **Excel, Google Sheets, SQL,** and **Python** for data analysis and management.
+I work with **Power BI** and **Tableau** to visualize and tell stories with data.
 
 ## Soft skills
-Data Analytics, Working under proccess, 
 - Data analytics
 - Working under process
 - Result-oriented
 - Client-oriented
-- Problem solving
+- Problem-solving
 - Teamwork
 - Client attention 
 
@@ -55,6 +57,13 @@ Please feel free to contact me. I'm sharing my LinkedIn profile and email addres
 - **Calculate** important metrics to inform action.
 - **Visualize** the insights so they are clear when communicating with stakeholders.
 
+**Visualizations and Results**
+
+<img width="1187" height="734" alt="image" src="https://github.com/user-attachments/assets/cf4f3a5a-6c09-4a06-87d9-d74dfc55e1ae" />
+
+<img width="1187" height="734" alt="image" src="https://github.com/user-attachments/assets/451b5eae-bf7a-4b69-badb-998253105fdc" />
+
+<img width="1305" height="1323" alt="image" src="https://github.com/user-attachments/assets/e3810add-d64c-4eb2-8902-6521053bb7de" />
 
 
 [Proyecto 1_ VentaExpress.xlsx](https://github.com/user-attachments/files/28676840/Proyecto.1_.VentaExpress.xlsx)
